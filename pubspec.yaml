@@ -13,7 +13,8 @@ dependencies:
   crypto_keys: ^0.3.0+1
   dio: ^5.0.2
 
-  http: ^0.13.5
+  #http: ^0.13.5
+  http: ^1.0.0
 
   image: ^4.0.15
   jose: ^0.3.3
